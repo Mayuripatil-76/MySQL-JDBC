@@ -1,5 +1,5 @@
 import java.sql.*;
-public class Democlass 
+public class Conn 
 {
 
 	public static void main(String[] args) throws Exception
